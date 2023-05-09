@@ -1,2 +1,2 @@
 # Coca-Cola
-Mi primer proyecto con ayuda de TecnoLochicas Pro
+Les presento mi primera codificación con ayuda de TecnoLochicas Pro.
