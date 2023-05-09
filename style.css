@@ -1,0 +1,29 @@
+body{
+    background-color:#fbeec2;
+    color: #ff8c94;
+    font-family: 'Comfortaa', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Noto Sans Lao Looped', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rubik Distressed', cursive;
+}
+
+p{
+    color:black;
+}
+
+/*Para agregar clase, osea editar cada una de ellas ponemos ( . ) antes del nombre */
+.titulo{
+    color:#581e44;
+}
+
+/*Si no lleva punto LA CLASE, afectas a todos los elementos*/
+img{
+    width: 500px;
+}
+.img2{
+    width: 200px;
+}
